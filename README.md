@@ -6,4 +6,5 @@ Hello! My name is Courtney Maynard and I am interested in majoring in CAMS(Compu
 
 ## Informal Responses
 1. [Sept. 5th, Joshua Blumenstock Article Response](informalresponseone.md)
+2. [Sept. 9th, Hans Rosling TED Talk Response] (rosling.md)
 ## Formal Responses
