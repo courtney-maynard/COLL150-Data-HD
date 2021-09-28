@@ -9,5 +9,6 @@ Hello! My name is Courtney Maynard and I am interested in majoring in CAMS (Comp
 2. [Sept. 9th, Hans Rosling TED Talk Response](rosling.md)
 3. [Sept. 21st, Barder Video Response](barderresponse.md)
 4. [Sept. 23rd, Informal Response Regarding Complexity and Data Science](informalresponsetwo.md)
+5. [Sept. 28th, Class Essay](informalresponsethree.md)
 
 ## Formal Responses
