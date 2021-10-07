@@ -11,6 +11,7 @@ Hello! My name is Courtney Maynard and I am interested in majoring in CAMS (Comp
 4. [Sept. 23rd, Informal Response Regarding Complexity and Data Science](informalresponsetwo.md)
 5. [Sept. 28th, Class Essay](informalresponsethree.md)
 6. [Sept. 30th, Class Essay](informalresponsefour.md)
+7. [Oct. 7th, Class Essay](informalresponsefive.md)
 
 ## Formal Responses
 1. [Annotated Bibliography](DSHD Annotated Bibliography - Final Draft.pdf)
