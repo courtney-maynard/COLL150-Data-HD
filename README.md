@@ -19,6 +19,7 @@ Hello! My name is Courtney Maynard and I am interested in majoring in Computer S
 12. [Nov. 4th, Class Essay](informalresponseten.md)
 13. [Nov. 9th, Class Essay](informalresponseeleven.md)
 14. [Nov. 11th, Class Essay](informalresponsetwelve.md)
+15. [Nov. 16th, Class Essay](informalresponsethirteen.md)
 
 ## Formal Responses
 1. [Annotated Bibliography](DSHD Annotated Bibliography - Final Draft.pdf)
