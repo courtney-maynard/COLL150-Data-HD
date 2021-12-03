@@ -25,4 +25,4 @@ Hello! My name is Courtney Maynard and I am interested in majoring in Computer S
 1. [Annotated Bibliography](DSHD Annotated Bibliography - Final Draft.pdf)
 2. [Literature Review](DSHD Literature Review - Final Draft.pdf)
 3. [Method Investigation](DSHD Methods Paper Final Draft.pdf)
-4. [Presentation Abstract](DSHD Presentation Abstract.pdf) and [Presentation Slides](DSHD Presentation Slides (Updated Nov.28).pdf)
+4. [Presentation Abstract](DSHD Presentation Abstract.pdf) and [Presentation Slides](DSHD Presentation Slides (Updated Dec. 1st).pdf)
